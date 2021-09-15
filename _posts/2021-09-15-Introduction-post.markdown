@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction Post"
 date:   2021-09-14 23:57:19 -0500
-categories: jekyll update
+categories: reflection post
 ---
 I definitely thought that this lab would be a lot hard than it was. To be fair, I did make this lab a lot harder than it needed to be. For starters, when there are step by step instructions there is no need to assume that there is a hidden instruction that you are missing. Sometimes everything you need to do for this lab has been nicely laid out for you! However, after all my weird mistakes I now feel confident to help someone else set up their blog. As some famous historical figure once said, "I didn't fail a 1000 times, I found a 1000 ways not to do it." Sometimes you have to make mistakes to get them out of the way before you start your blog.
 
@@ -15,6 +15,6 @@ In order to finish this assignment I need to include 2 links and a list. So I wi
 -My [Pintrest Board][Pintrest-Board] for all the things I want to crochet
 -A [joke of the day][joke] website that occasionally has a good joke
 -A [link][lab2website] to the last website that I made
-[Pintrest-Board]:https://pin.it/6LQ6CL7
-[joke]:https://www.ajokeaday.com/
+[Pintrest-Board]: https://pin.it/6LQ6CL7
+[joke]: https://www.ajokeaday.com/
 [lab2website]: https://larsonog.github.io/csci340lab2
