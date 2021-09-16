@@ -12,9 +12,10 @@ I really am looking forward to using this blog and recording my experiences in t
 
 In order to finish this assignment I need to include 2 links and a list. So I will make a list of links to things that give me the motivation to go on.
 
--My [Pintrest Board][Pintrest-Board] for all the things I want to crochet
--A [joke of the day][joke] website that occasionally has a good joke
--A [link][lab2website] to the last website that I made
+- My [Pintrest Board][Pintrest-Board] for all the things I want to crochet
+- A [joke of the day][joke] website that occasionally has a good joke
+- A [link][lab2website] to the last website that I made
+
 [Pintrest-Board]: https://pin.it/6LQ6CL7
 [joke]: https://www.ajokeaday.com/
 [lab2website]: https://larsonog.github.io/csci340lab2
