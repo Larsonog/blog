@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I am Olivia! I am a Comp Sci student at Hendrix college. I am making this website for my Data Bases and Web Systems class. I am a member of the Ultimate Frisbee team on campus and am an active participant in the Hendrix Wind Ensemble as well! If you're in the area come to a [concert][schedule]. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[schedule]:https://www.hendrix.edu/music/music.aspx?id=2045
