@@ -5,10 +5,9 @@ date:   2021-09-24 17:24:19 -0500
 categories: reflection post
 author: Olivia Larson
 ---
-<img src ="images/EA.png" alt="Entity Relationship">
-![Entity-Relationship](images/EA.png)
-![Schema](images/Schema.png)
 
+![Entity Relationship](https://i.pinimg.com/564x/2d/c6/d0/2dc6d0670bca77ee6d30659fcbde00f7.jpg)
+![Schema](https://i.pinimg.com/564x/f4/11/98/f41198a182dd2eaeef52a912682e4c0c.jpg)
 # Discussion
 
 ### Entity Relationship drawing
