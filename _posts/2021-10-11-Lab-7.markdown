@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflection for Lab 5"
+title:  "Reflection for Lab 7"
 date:   2021-10-11 23:43:19 -0500
 categories: reflection post
 author: Olivia Larson
