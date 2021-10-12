@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Reflection for Lab 5"
+date:   2021-10-11 23:43:19 -0500
+categories: reflection post
+author: Olivia Larson
+---
+Lab 7 has been one of the most frustrating labs of all time. I am not happy with it. After the tutorial I thought I had a bit of an understanding of how to make a Razor Pages application. After 3 hours and countless errors, I have decided to give up briefly. Maybe once I get back to my apartment I will try again.
+To answer the prompt:
+  the tutorial kinda blended together and was a whirlwind of copying and pasting for me. The only part I didn't understand was when it asked us to add a break in the code. I tried to go back and figure out what it meant but could not.
+
+  It started off pretty easy translating the steps of the tutorial into making my own application. It was initially working on my local server until it wasn't and I got a whole host of SQL errors.
+
+  I like jekyll so much more! I like that there is less adding different pieces of code to different files. I think that part of the Razor Pages experience was the most infuriating.
+
+  I will feel more confident in making a Razor Pages Application when I can find out why I am getting this silly little error.
+
+  Here's the link to my [Github repository][repo]. Maybe it will have fixed itself?
+
+  Also my application is about avocados! I recently started enjoying them and I thought it would be fun to create a database about which ones I've had
+
+  Also here is a visual image to how this lab made me feel:
+  ![frustration]: https://p2.piqsels.com/preview/774/287/664/upset-overwhelmed-stress-tired.jpg
+[repo]: https://github.com/Larsonog/csci340lab7
