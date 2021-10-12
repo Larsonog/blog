@@ -5,6 +5,8 @@ date:   2021-10-11 23:43:19 -0500
 categories: reflection post
 author: Olivia Larson
 ---
+(Important update added at the bottom)
+
 Lab 7 has been one of the most frustrating labs of all time. I am not happy with it. After the tutorial I thought I had a bit of an understanding of how to make a Razor Pages application. After 3 hours and countless errors, I have decided to give up briefly. Maybe once I get back to my apartment I will try again.
 To answer the prompt:
   the tutorial kinda blended together and was a whirlwind of copying and pasting for me. The only part I didn't understand was when it asked us to add a break in the code. I tried to go back and figure out what it meant but could not.
@@ -22,5 +24,14 @@ To answer the prompt:
   Also here is a visual image to how this lab made me feel:
 
   ![frustration](https://p2.piqsels.com/preview/774/287/664/upset-overwhelmed-stress-tired.jpg)
+
+  UPDATE:
+  After a little more work and some Taco Bell I have completed the lab... at least I hope
+  I did. I was able to make everything work! Also I realized that it's really nice to listen
+  to music while coding. I can't listen to any type of music when I'm reading or writing
+  but I guess coding uses a different side of my brain.
+  This is now how my brain feels:
+
+  ![happywoman](https://cdn.pixabay.com/photo/2017/08/16/22/29/excited-2649320_960_720.jpg)
 
   [repo]: https://github.com/Larsonog/csci340lab7
