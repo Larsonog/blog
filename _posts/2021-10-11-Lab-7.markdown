@@ -20,5 +20,7 @@ To answer the prompt:
   Also my application is about avocados! I recently started enjoying them and I thought it would be fun to create a database about which ones I've had
 
   Also here is a visual image to how this lab made me feel:
-  ![frustration]: https://p2.piqsels.com/preview/774/287/664/upset-overwhelmed-stress-tired.jpg
-[repo]: https://github.com/Larsonog/csci340lab7
+
+  ![frustration](https://p2.piqsels.com/preview/774/287/664/upset-overwhelmed-stress-tired.jpg)
+
+  [repo]: https://github.com/Larsonog/csci340lab7
