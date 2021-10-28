@@ -19,4 +19,4 @@ needs to get accomplished, and ask questions to my group and Dr. Goadrich to sol
 
 After learning how to correctly insert pictures in a blog I want to add one in just for funzies:
 
-a href ="{{site.baseurl}}/assets/images/cat.jpg
+![halloweencat]({{site.baseurl}}/assets/images/cat.jpg)
