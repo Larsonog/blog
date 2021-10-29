@@ -6,6 +6,7 @@ categories: reflection post
 author: Olivia Larson
 ---
 IMPORTANT UPDATE:
+THERE IS ANOTHER UPDATE TO THE UPDATE
 
 I think the most difficult part of the tutorial was just getting it started.
 I always get a little confused about how to integrate the .NET and
@@ -38,3 +39,12 @@ Until then, Dr. G if you are looking at my relection post, here is my [Github li
 [repo]:https://github.com/Larsonog/csci340lab8
 
 ![meme of guy looking at computer very frustratedly](https://cdn.pixabay.com/photo/2016/03/31/19/54/computer-1295358_640.png)
+
+2nd UPDATE:
+I am done. That was a lot of work and really tested my patience. I have finished this lab at 2 am out of pure spite. I didn't want to have to worry about it this weekend. I do see how it'll be helpful for the final project. That is all. My eyes would like to stop staring at my laptop. Over and out.
+(also I think this lab took me around 6 hours to complete maybe a little more)
+I ALMOST FORGOT! Here is the new [Github repository][repo2] that has the completed lab. After completing this lab I think I might have been able to solve the errors I was getting the first time I did it but I also think it was beneficial to start over and make sure I really knew what I was doing.
+
+[repo2]:https://github.com/Larsonog/csci340lab8part2
+
+![sleepy woman](https://freesvg.org/img/1540864834.png)
