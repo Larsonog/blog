@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2nd Disco Tray Studios Reflection "
+title:  "3rd Disco Tray Studios Reflection "
 date:   2022-09-16 10:06:19 -0500
 categories: reflection post
 author: Olivia Larson
@@ -28,6 +28,6 @@ something unless I am passionate about it, like if it sparks something in my bra
 ![arg]({{site.baseurl}}/assets/images/arg.jpg)
 
 -- i am counting on no one reading this blog ever. I will probably edit the heck out of these posts later so they sound less chaotic.
--- also josh and I have a really cool idea for an app. It would be like a shared to do list that couples or friends could use. The to do list would be divided into categories like School Tasks, Non-School Tasks, and Fun. Josh and I like to plan out our days by letting eachother know what we have to do. School tasks are always top priority and non-school stuff (like doing laundry or cleaning) are secondary priorities. The fun category is for when we both feel good enough about our completion of tasks we want to know what fun activiy each of us would like to do. It's just a great way to know what the other person has to do rather than just guessing. There are shared to do lists that already exist but we want to make ours much cuter. Ideally each user would have a character (i.e. a fox or a raccoon) and thier tasks would be labled with their character. Maybe when they complete their task their character does a little dance. I don't know but it would be so cute and it's something that Josh and I would definitely use. 
+-- also josh and I have a really cool idea for an app. It would be like a shared to do list that couples or friends could use. The to do list would be divided into categories like School Tasks, Non-School Tasks, and Fun. Josh and I like to plan out our days by letting eachother know what we have to do. School tasks are always top priority and non-school stuff (like doing laundry or cleaning) are secondary priorities. The fun category is for when we both feel good enough about our completion of tasks we want to know what fun activiy each of us would like to do. It's just a great way to know what the other person has to do rather than just guessing. There are shared to do lists that already exist but we want to make ours much cuter. Ideally each user would have a character (i.e. a fox or a raccoon) and thier tasks would be labled with their character. Maybe when they complete their task their character does a little dance. I don't know but it would be so cute and it's something that Josh and I would definitely use.
 
 ![cuteraccoon]({{site.baseurl}}/assets/images/cuteraccoon.png)
