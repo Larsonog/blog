@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "4th Disco Tray Studios Reflection "
-date:   2022-09-25 10:06:19 -0500
+title:  "7th Disco Tray Studios Reflection "
+date:   2022-10-17 10:06:19 -0500
 categories: reflection post
 author: Olivia Larson
 ---
