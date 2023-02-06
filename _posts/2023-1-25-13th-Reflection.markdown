@@ -14,3 +14,13 @@ My group and I are finally going to present the documentary we made on cafe cult
 ![cafe]({{site.baseurl}}/assets/images/cafe.png)
 
 Also I think this semester is going to go really well. I think the vibes feel right about it. Also I am really exicited to be doing background dancing in Miss Hendrix (however, we will see what happens because of the bill that is trying to get passed). 
+
+# Update
+The documentary showing went super well! We had about 10 students show up and they all really seemed to like it. Also Hendrix Communications asked us to make a tik tok for the event and I crafted, directed, and edited the perfect tik tok. Ok well it might not be perfect but I am proud of it nontheless. I've never uploaded a video on here so I'm not sure how this will go. Also I'll go ahead and link the doc too!
+
+[Fuel for Thought: a Cafe Odyssey Documentary][doc]
+
+[Fuel for Thought: a Cafe Odyssey Documentary]https://www.youtube.com/watch?v=8T7AqcJIrrA
+
+[Tik Tok][Tik Tok]
+[Tik Tok]https://fb.watch/iw9Fwf1qQx/
