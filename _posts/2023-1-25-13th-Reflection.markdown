@@ -11,7 +11,7 @@ This reflection post is coming a little late because, to be frank, I forgot. Ha!
 # Other news
 My group and I are finally going to present the documentary we made on cafe culture in europe. We had to postpone it a lot due to finishing up other projects but it's happening tonight! Here's the cover art I made for the event. I'll update the blog once I know how the event goes.
 
-![cafe]({{site.baseurl}}/assets/images/cafe.png)
+![cafe]({{site.baseurl}}/assets/images/cafe.jpg)
 
 Also I think this semester is going to go really well. I think the vibes feel right about it. Also I am really exicited to be doing background dancing in Miss Hendrix (however, we will see what happens because of the bill that is trying to get passed). 
 
@@ -20,7 +20,7 @@ The documentary showing went super well! We had about 10 students show up and th
 
 [Fuel for Thought: a Cafe Odyssey Documentary][doc]
 
-[Fuel for Thought: a Cafe Odyssey Documentary]https://www.youtube.com/watch?v=8T7AqcJIrrA
+[doc]: https://www.youtube.com/watch?v=8T7AqcJIrrA
 
-[Tik Tok][Tik Tok]
-[Tik Tok]https://fb.watch/iw9Fwf1qQx/
+[Tik Tok][tik]
+[tik]: https://fb.watch/iw9Fwf1qQx/
