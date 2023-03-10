@@ -12,12 +12,12 @@ So I have kinda a hit a wall with getting the calendar to work. I have gone back
 ## meeting with goadrich 
 I met with Dr. Goadrich this friday to go over the code. He definetely helped me understand what the new code is doing. So instead of calling firestore in each part of the code we can just do it once in the app state. Doing it this way is definetely more helpful and clean. However, while I do understand this it is different than the examples that I have seen online. I think I will have to meet up with Connor that said he had an idea of where to go. Also Dr. Goadrich told me that he's working on a sharing function so that if you see an event that you like you can send it to friends with a button. Appearently, smart phones already have this function built in and all Dr. G has to do is connect it. I am really excited about this feature. Another update is that I am looking to block out time in my schedule to work on disco. Like say Monday and Friday work from 2-4 because I know that time is free. It's just hard because I feel like I have no time and I am constantly running from thing to thing. 
 
-| how many hours a week I spend doing extraciricular things |
------------------------------------------------------------------------------------------
-| wind ensemble| frisbee | frisbee council meeting | senate | miss hendrix practice| disco meeting| info desk |
------------------------------------------------------------------------------------------
-| 4 hours | 4 hours | 2 hours | 1 hour | 4 hours (this week at least)| 2 hours| 6 hours| 
-----------------------------------------------------------------------------------------
+
+
+| Wind Ensemble         | Frisbee + Council Meetings    | Senate | Miss Hendrix Practice | Disco meetings | Information Desk | Total | 
+|--------------|-----------|------------|--------------|-----------|------------|------------|
+| 4 hours  | 6 hours     | 1 hour      | 4 hours |2 hours | 6 hours|23 hours|
+
 
 *I also am going to try and do disco stuff while I am working at the desk.
 ** I also have been doing a lot of house/ pet sitting lately and that requires a lot of time 
