@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test!"
+title:  "27th Disco Tray Studios Reflection"
 date:   2023-4-30 10:06:19 -0500
 categories: reflection post
 author: Olivia Larson
